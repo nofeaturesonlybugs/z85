@@ -1,0 +1,11 @@
+/develop
+
+0.1.0
+
+    + Add functions:
+        + Decode - Decode Z85 string.
+        + Encode - Encode Z85 []byte.
+        + PaddedDecode - Decodes a string encoded by PaddedEncode.
+        + PaddedEncode - Encodes a []byte of arbitrary length.
+        + Pad - Add padding to []byte whose length is not multiple of 4.
+        + Trim - Trim padding to []byte by Pad().
