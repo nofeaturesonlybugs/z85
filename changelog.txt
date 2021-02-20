@@ -1,5 +1,8 @@
 /develop
 
+1.0.1
+    + Add go.mod
+
 0.1.0
 
     + Add functions:
