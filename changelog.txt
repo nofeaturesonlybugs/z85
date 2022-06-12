@@ -1,5 +1,10 @@
 /develop
 
+1.0.2
+    + Package maintenance.
+        + Update dependencies.
+        + Update badges.
+        
 1.0.1
     + Add go.mod
 
