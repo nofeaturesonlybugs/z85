@@ -1,6 +1,6 @@
-[![Documentation](https://godoc.org/github.com/nofeaturesonlybugs/z85?status.svg)](http://godoc.org/github.com/nofeaturesonlybugs/z85)
+[![Go Reference](https://pkg.go.dev/badge/github.com/nofeaturesonlybugs/z85.svg)](https://pkg.go.dev/github.com/nofeaturesonlybugs/z85)
 [![Go Report Card](https://goreportcard.com/badge/github.com/nofeaturesonlybugs/z85)](https://goreportcard.com/report/github.com/nofeaturesonlybugs/z85)
-[![Build Status](https://travis-ci.com/nofeaturesonlybugs/z85.svg?branch=master)](https://travis-ci.com/nofeaturesonlybugs/z85)
+[![Build Status](https://app.travis-ci.com/nofeaturesonlybugs/z85.svg?branch=master)](https://app.travis-ci.com/nofeaturesonlybugs/z85)
 [![codecov](https://codecov.io/gh/nofeaturesonlybugs/z85/branch/master/graph/badge.svg)](https://codecov.io/gh/nofeaturesonlybugs/z85)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
